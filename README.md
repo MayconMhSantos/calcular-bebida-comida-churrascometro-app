@@ -1,2 +1,2 @@
-# churrascometro-app
-Calcula a quantidade de car e bebidas necessarias para a festa. JavaScipr/HTLM/CSS
+# ChurrasCometro-app
+Calcula a quantidade de carne e bebidas necessárias para a festa. JavaScipr/HTLM/CSS
