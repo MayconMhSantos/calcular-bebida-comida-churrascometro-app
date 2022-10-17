@@ -1,4 +1,4 @@
-# churras-Cometro-app
+# calc-churras-cometro-app
 Este projeto foi criado para colocar em pratica meu aprendizado, basicamente ele é responsável por calcular a quantidade de pessoas (adultos e crianças) para gerar um relatório informando a quantidade de (carne, cerveja e refrigerante), para uma festa baseando-se pelas horas de festa e quantidade de pessoas.  
 Neste projeto foi utilizado HTML/CSS/JavaScript.
 
